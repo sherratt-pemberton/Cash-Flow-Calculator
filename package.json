@@ -72,7 +72,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "bugs": {
-    "url": "https://github.com/dev-academy-challenges/boilerplate-react-webpack/issues"
+    "url": "https://github.com/sherratt-pemberton/Cash-Flow-Calculator/issues"
   },
-  "homepage": "https://github.com/dev-academy-challenges/boilerplate-react-webpack#readme"
+  "homepage": "https://github.com/sherratt-pemberton/Cash-Flow-Calculator#readme"
 }
